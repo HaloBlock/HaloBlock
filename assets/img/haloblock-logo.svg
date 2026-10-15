@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="HaloBlock logo">
+<defs>
+ <linearGradient id="ring" x1="10" y1="118" x2="116" y2="4" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#9763FA"/><stop offset=".44" stop-color="#3673FF"/><stop offset="1" stop-color="#3DE0E5"/></linearGradient>
+ <linearGradient id="bar" x1="38" y1="37" x2="86" y2="91" gradientUnits="userSpaceOnUse"><stop stop-color="#9B63FA"/><stop offset="1" stop-color="#2075FF"/></linearGradient>
+ <linearGradient id="spark" x1="87" y1="6" x2="117" y2="45" gradientUnits="userSpaceOnUse"><stop stop-color="#F9FEFF"/><stop offset="1" stop-color="#92FBFF"/></linearGradient>
+</defs>
+<circle cx="61" cy="67" r="43" stroke="url(#ring)" stroke-width="18" fill="none"/>
+<path d="M47 52 77 82" stroke="url(#bar)" stroke-width="17" stroke-linecap="round"/>
+<path d="M102 6.5c1.7 12 4 14.3 16.4 16.6-12.4 2-14.6 4.4-16.4 16.6-1.7-12.2-4-14.5-16.6-16.6 12.6-2.3 14.9-4.6 16.6-16.6Z" fill="url(#spark)" stroke="#38BDF8" stroke-opacity=".2" stroke-width=".75"/>
+</svg>
